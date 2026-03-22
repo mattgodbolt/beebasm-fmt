@@ -1,7 +1,7 @@
 - id: beebasm-fmt
   name: beebasm-fmt
   description: Format BeebAsm 6502/65C02 assembly source files
-  entry: beebasm_fmt.py
+  entry: beebasm-fmt
   language: python
   types: [file]
   files: '\.asm$'
