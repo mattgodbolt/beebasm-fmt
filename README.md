@@ -11,7 +11,6 @@ An opinionated code formatter for [BeebAsm](https://github.com/stardot/beebasm)
 - Double-indents inside `MACRO`/`FOR`/`IF` blocks
 - Handles `{ }` scope braces (column 0, contents indented)
 - Pads assignment (`=`) alignment
-- Recognises inline `FOR ... : ... : NEXT` as a single instruction
 
 ## Directives
 
